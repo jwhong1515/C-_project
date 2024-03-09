@@ -1,0 +1,19 @@
+﻿  AbstractButton.cpp
+  ActionListener.cpp
+  Button.cpp
+C:\Users\wldnd\Downloads\28035 (6)\MyMFC\Button.cpp(11,63): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CheckBox.cpp
+C:\Users\wldnd\Downloads\28035 (6)\MyMFC\CheckBox.cpp(21,59): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Component.cpp
+  Container.cpp
+  frame.cpp
+C:\Users\wldnd\Downloads\28035 (6)\MyMFC\frame.cpp(91,48): warning C4302: '형식 캐스트': 'LPWSTR'에서 'WORD'(으)로 잘립니다.
+  Misc.cpp
+  Panel.cpp
+  StaticText.cpp
+C:\Users\wldnd\Downloads\28035 (6)\MyMFC\StaticText.cpp(11,63): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ToolBar.cpp
+  코드를 생성하고 있습니다...
+C:\Users\wldnd\Downloads\28035 (6)\MyMFC\frame.cpp(45): warning C4715: 'WndProc': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\wldnd\Downloads\28035 (6)\MyMFC\Container.cpp(42): warning C4715: 'Container::eventHandler': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  MyMFC.vcxproj -> C:\Users\wldnd\Downloads\28035 (6)\x64\Debug\MyMFC.lib
